@@ -7,3 +7,6 @@ A repository for developing discord bots and a lot of plugins for you to look at
 # How to use
 
 There are files under each folder and there is a link to the documentation for each of the files named **doc-lnk.txt**
+
+# Doc list
+[Link to all documentations](https://windwalkerstudio.github.io/docs/)
